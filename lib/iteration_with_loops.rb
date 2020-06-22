@@ -17,7 +17,7 @@ def find_even_values(src)
     end
     outer_count += 1
   end
-  print return_array
+  return_array
 end
 
-find_even_values([[1, 2], [3, 4]])
+#find_even_values([[1, 2], [3, 4]])
