@@ -20,4 +20,4 @@ def find_even_values(src)
   print return_array
 end
 
-find_even_values([[-1, 3, 2], [3, 4]])
+find_even_values([[-1, 3, -2], [3, 4]])
